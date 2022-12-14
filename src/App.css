@@ -1,0 +1,9 @@
+.wrapper {
+  
+  display: flex;
+  padding: 20px;
+  background-color:darkblue;
+  color:white;
+ 
+  gap: 20px;
+}
